@@ -1,0 +1,21 @@
+# Ignore virtual environment
+ai_project_env/
+
+# Ignore Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables
+.env
+
+# Ignore system files
+.DS_Store
+
+# Ignore local database or logs
+*.sqlite3
+*.log
+
+# Ignore Streamlit config
+.streamlit/
